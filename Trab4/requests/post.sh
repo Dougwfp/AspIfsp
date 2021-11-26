@@ -16,5 +16,5 @@ curl -i -k \
 -X POST \
 $API_URL/livros \
 --header "Content-Type: application/json" \
---data-raw '{"titulo": "Tuler e o Shebang perdido.", "autor": "Angelão, o escritor."}' \
+--data-raw '{"titulo": "Tuler e o Shebang perdido.", "autor": "Aaaaaa, o escritor."}' \
 
